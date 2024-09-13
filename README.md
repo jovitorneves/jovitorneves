@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi! Welcome! I'm João Vitor 👋
+## Let me present a little about myself :D
 
-<!--
-**jovitorneves/jovitorneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS Software Engineer focused in Swift, SwiftUI and Objective-C 📱:
 
-Here are some ideas to get you started:
+Lover of Technology and coding :heart:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me 
+
+<a href="https://github.com/jovitorneves/GitHub-Language-Stats">
+<img src="https://github.com/jovitorneves/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/jovitorneves/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jovitorneves)
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jovitorneves)](https://github.com/jovitorneves)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorneves0/)](https://www.linkedin.com/in/vitorneves0/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorneves.dev@gmail.com)](mailto:vitorneves.dev@gmail.com)
+
+- Thanks for visiting. 
+- Enjoy it!! o/
