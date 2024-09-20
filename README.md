@@ -7,10 +7,8 @@ Lover of Technology and coding :heart:
 
 ## About me 
 
-<a href="https://github.com/jovitorneves/GitHub-Language-Stats">
-<img src="https://github.com/jovitorneves/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jovitorneves/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jovitorneves&show_icons=true&theme=transparent&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovitorneves&layout=compact&theme=transparent)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jovitorneves)
 
